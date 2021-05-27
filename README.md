@@ -4,10 +4,14 @@ The goal of this challenge was to analyze PyBer ride sharing data to find the re
 ## Results
 ### Data Frame
 The below image is the final Data Frame that was created to illustrate the riding-sharing data. 
+
 ![df_chart](analysis/PyBer_df.PNG)
+
 #### Multiple Line Graphs
 The below image is the final Multiple Line Graph that was created to show the total weekly fares for each city type. 
+
 ![line_chart](analysis/PyBer_fare_summary.PNG)
+
 ## Summary 
 ## Results by City Type
 Urban 
