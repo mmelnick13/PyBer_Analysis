@@ -10,7 +10,7 @@ The below image is the final Data Frame that was created to illustrate the ridin
 #### Multiple Line Graphs
 The below image is the final Multiple Line Graph that was created to show the total weekly fares for each city type. 
 
-![chart](analysis/Pyber_fare.PNG)
+![line_chart](analysis/PyBer_fare.PNG)
 
 ## Summary 
 ## Results by City Type
